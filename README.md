@@ -1,8 +1,6 @@
 # jobs
 
-## front-end
-
-### DESCRIÇÃO DA VAGA
+### Descrição de vaga para front-end
 
 Essa oportunidade é para Iris do Hub. Uma plataforma de data driven marketing.
 Saiba mais acessando: [https://somosiris.com/](https://somosiris.com/)

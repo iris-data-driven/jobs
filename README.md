@@ -68,7 +68,7 @@ Somos uma equipe muito diversificada e acreditamos que, além de muita competên
 - 40h semanais
 - Happy mensal 😊
 
-## MANIFESTO 🤗
+### Manifesto
 
 A 4all é feita por pessoas que fazem a diferença e proporciona crescimento profissional e pessoal para todos que estão aqui.
 Um lugar com um entrosamento cada vez maior, de experiências únicas em um ambiente enriquecedor e gratificante.
